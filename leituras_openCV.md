@@ -12,7 +12,7 @@ Aqui uma lista mínima de livros "básicos" sobre a mesma.
 
 ![ocv_minichino.png](./capas/ocv_minichino.png)
 
-Nos projetos da vida real muitas vézes é preciso combinar OpenCV e outras ferramentas como Pandas e TensorFlow 
+# Nos projetos da vida real muitas vézes é preciso combinar OpenCV e outras ferramentas como Pandas e TensorFlow 
 
 ![panda_eduardo.png](./capas/panda_eduardo.png)
 
